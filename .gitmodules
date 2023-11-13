@@ -1,6 +1,6 @@
 [submodule "submodules/zfsonlinux"]
 	path = submodules/zfsonlinux
-	url = https://github.com/zfsonlinux/
+	url = https://github.com/zfsonlinux/pkg-zfs.git
 [submodule "submodules/ubuntu-kernel"]
 	path = submodules/ubuntu-kernel
-	url = https://github.com/ubuntu/ubuntu-kernel.git
+	url = git://git.proxmox.com/git/mirror_ubuntu-kernels.git
